@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+
+html {
+	font-family: "Poppins";
+}
+body{
+	/*display: flex;
+    justify-content: center;*/
+    background-color: #616247;
+    padding: 0px;
+    margin: 0px;
+}
+.body2 {
+	background-color: #FF5733;
+}
+.body3 {
+	background-color: #2E4A62;
+}
+div.Cirkel {
+
+	width: 400px;
+	text-align: center;
+	padding-left: 47em;
+	padding-top: 20em;
+}
+div.Rechthoek {
+
+	width: 400px;
+	text-align: center;
+	padding-left: 47em;
+	padding-top: 16em;
+}
+div.Temperatuur {
+
+	width: 400px;
+	text-align: center;
+	padding-left: 47em;
+	padding-top: 18em;
+}
+
+.nav {
+  background-color: black;
+  color: white;
+  text-align: left;
+	padding: 8px;
+
+}
+
+.nav button {
+	background-color: black;
+	color: white;
+	border: none;
+	font-size: 2pc;
+	padding-left: 10px;
+	font-family: "Poppins";
+	font-size: 25px;
+}
+.nav button:hover {
+	color: grey;
+}
+.button {
+	background-color: #616247; /* Green */
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  -webkit-transition-duration: 0.4s; 
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+.button1 {
+  background-color: #616247; 
+  color: black; 
+  border: 2px solid black;
+}
+.button2 {
+  background-color: #FF5733; 
+  color: black; 
+  border: 2px solid black;
+}
+.button3 {
+  background-color: #2E4A62; 
+  color: black; 
+  border: 2px solid black;
+}
+
+.box {
+	  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+
